@@ -1,0 +1,23 @@
+{
+  "name": "serverless-api-read",
+  "version": "1.0.0",
+  "description": "Codefellows 401 Javascript: Lab 18 - AWS: API, Dynamo and Lambda Overview - Read Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micgreene/serverless-api-read.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micgreene/serverless-api-read/issues"
+  },
+  "homepage": "https://github.com/micgreene/serverless-api-read#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3"
+  }
+}
